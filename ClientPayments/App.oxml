@@ -1,0 +1,21 @@
+<application>
+    <HGroup>
+        <VGroup>
+
+
+        </VGroup>
+    </HGroup>
+    <TabBar>
+        <Tab></Tab>
+        <Tab></Tab>
+        <Tab></Tab>
+    </TabBar>
+    <DataGrid>
+        <DataGridColumns>
+            <DataGridColumnHeader></DataGridColumnHeader>
+            <cellRenderer></cellRenderer>
+        </DataGridColumns>
+
+    </DataGrid>
+
+</application>
